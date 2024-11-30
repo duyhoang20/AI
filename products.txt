@@ -1,0 +1,10 @@
+Sữa Tươi Vinamilk,10,1,images/milk.jpg
+Bánh Mì Sandwich,15,2,images/bread.jpg
+Nước Ngọt Coca-Cola,8,1,images/coke.jpg
+Gạo ST25,50,10,images/rice.jpg
+Trứng Gà,20,3,images/eggs.jpg
+Thịt Heo,100,5,images/pork.jpg
+Cá Hồi Phi Lê,200,8,images/salmon.jpg
+Rau Cải Xanh,5,1,images/vegetables.jpg
+Táo Mỹ,30,2,images/apple.jpg
+Khoai Tây,10,3,images/potato.jpg
